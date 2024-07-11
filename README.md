@@ -1,4 +1,5 @@
 # 这是一个共享打印机的软件：sprinter
+![image](https://github.com/cangege/sprinter/assets/8743924/bc1c23e5-ec46-416a-967c-2d99e2d4d95d)
 
 #### 使用说明
 
