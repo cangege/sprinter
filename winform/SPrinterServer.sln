@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPrinterServer", "SPrinterServer.csproj", "{2D0645E0-14D6-470B-BB8B-EB673A7E62FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autoupdate", "..\autoupdate\autoupdate.csproj", "{2643582B-2A88-4F48-B030-1DFB2997F952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D0645E0-14D6-470B-BB8B-EB673A7E62FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0645E0-14D6-470B-BB8B-EB673A7E62FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0645E0-14D6-470B-BB8B-EB673A7E62FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0645E0-14D6-470B-BB8B-EB673A7E62FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2643582B-2A88-4F48-B030-1DFB2997F952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2643582B-2A88-4F48-B030-1DFB2997F952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2643582B-2A88-4F48-B030-1DFB2997F952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2643582B-2A88-4F48-B030-1DFB2997F952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50CD0408-E575-4C91-B2AF-B93EF747851E}
+	EndGlobalSection
+EndGlobal

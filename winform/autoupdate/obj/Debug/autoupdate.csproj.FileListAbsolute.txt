@@ -1,0 +1,10 @@
+D:\work\blwy\autoupdate\bin\Debug\autoupdate.exe.config
+D:\work\blwy\autoupdate\bin\Debug\autoupdate.exe
+D:\work\blwy\autoupdate\bin\Debug\autoupdate.pdb
+D:\work\blwy\autoupdate\obj\Debug\autoupdate.csproj.AssemblyReference.cache
+D:\work\blwy\autoupdate\obj\Debug\autoupdate.Form1.resources
+D:\work\blwy\autoupdate\obj\Debug\autoupdate.Properties.Resources.resources
+D:\work\blwy\autoupdate\obj\Debug\autoupdate.csproj.GenerateResource.cache
+D:\work\blwy\autoupdate\obj\Debug\autoupdate.csproj.CoreCompileInputs.cache
+D:\work\blwy\autoupdate\obj\Debug\autoupdate.exe
+D:\work\blwy\autoupdate\obj\Debug\autoupdate.pdb
